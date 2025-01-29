@@ -136,7 +136,7 @@
   }
 
   /**
-   * Hero type effect
+   * background type effect
    */
   const typed = select('.typed')
   if (typed) {
