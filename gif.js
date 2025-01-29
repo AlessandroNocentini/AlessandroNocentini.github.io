@@ -1,16 +1,16 @@
 var favicon_images = [
-    'assets/img/gif/1.png',
-    'assets/img/gif/1.png',
-    'assets/img/gif/2.png',
-    'assets/img/gif/3.png',
-    'assets/img/gif/4.png',
-    'assets/img/gif/5.png',
-    'assets/img/gif/6.png',
-    'assets/img/gif/6.png',
-    'assets/img/gif/5.png',
-    'assets/img/gif/4.png',
-    'assets/img/gif/3.png',
-    'assets/img/gif/2.png'
+    'assets/img/gif/1.png?',
+    'assets/img/gif/1.png?',
+    'assets/img/gif/2.png?',
+    'assets/img/gif/3.png?',
+    'assets/img/gif/4.png?',
+    'assets/img/gif/5.png?',
+    'assets/img/gif/6.png?',
+    'assets/img/gif/6.png?',
+    'assets/img/gif/5.png?',
+    'assets/img/gif/4.png?',
+    'assets/img/gif/3.png?',
+    'assets/img/gif/2.png?'
 ],
 image_counter = 0; // To keep track of the current image
 
