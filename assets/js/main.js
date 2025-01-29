@@ -136,7 +136,7 @@
   }
 
   /**
-   * background type effect
+   * myBackground type effect
    */
   const typed = select('.typed')
   if (typed) {
