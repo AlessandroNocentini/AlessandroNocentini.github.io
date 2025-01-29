@@ -279,23 +279,23 @@ h6 {
 }
 
 /*--------------------------------------------------------------
-# Hero Section
+# myBackground Section
 --------------------------------------------------------------*/
-#hero {
+#myBackground {
   width: 100%;
   height: 100vh;
-  background: url("../img/hero.png") top right no-repeat;
+  background: url("../img/myBackground.png") top right no-repeat;
   background-size: cover;
   position:relative;
 }
 
 @media (min-width: 992px) {
-  #hero {
+  #myBackground {
     padding-left: 160px;
   }
 }
 
-#hero:before {
+#myBackground:before {
   content: "";
   background: rgba(255, 255, 255, 0.5);
   position: absolute;
@@ -305,7 +305,7 @@ h6 {
   right: 0;
 }
 
-#hero h1 {
+#myBackground h1 {
   margin: 0;
   font-size: 700%;
   font-weight: 700;
@@ -313,23 +313,23 @@ h6 {
   color: #45505b;
 }
 
-#hero p {
+#myBackground p {
   color: #45505b;
   margin: 15px 0 0 0;
   font-size: 26px;
   font-family: "Poppins", sans-serif;
 }
 
-#hero p span {
+#myBackground p span {
   color: #0563bb;
   letter-spacing: 1px;
 }
 
-#hero .social-links {
+#myBackground .social-links {
   margin-top: 30px;
 }
 
-#hero .social-links a {
+#myBackground .social-links a {
   font-size: 24px;
   display: inline-block;
   color: #45505b;
@@ -338,21 +338,21 @@ h6 {
   transition: 0.3s;
 }
 
-#hero .social-links a:hover {
+#myBackground .social-links a:hover {
   color: #0563bb;
 }
 
 @media (max-width: 992px) {
-  #hero {
+  #myBackground {
     text-align: center;
   }
 
-  #hero h1 {
+  #myBackground h1 {
     font-size: 17vw;
     line-height: 100px;
   }
 
-  #hero p {
+  #myBackground p {
     margin-top: 10px;
     font-size: 20px;
     line-height: 24px;
